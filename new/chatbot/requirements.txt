@@ -1,0 +1,7 @@
+openai
+langchain-community
+langchain
+ollama
+streamlit
+langchain_core
+dotenv
