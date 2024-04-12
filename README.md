@@ -45,10 +45,3 @@ The code consists of the following components:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This README provides an overview of the project, including setup instructions, usage guidelines, and code overview. Feel free to customize it further based on your specific project needs.
